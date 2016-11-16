@@ -57,7 +57,7 @@ examples:
             com.appcelerator.notificationsample.NotificationsampleActivity
 
         The notification icon must be specified as an Android resource ID. In this case,
-        the icon, `my_icon.png` would be placed in `platforms/android/res/drawable/my_icon.png`.
+        the icon, `my_icon.png` would be placed in `platform/android/res/drawable/my_icon.png`.
         See <Titanium.App.Android.R> for more information.
 
         This example does not include a custom alert sound. For information on adding a
